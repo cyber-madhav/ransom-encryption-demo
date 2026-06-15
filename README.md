@@ -1,4 +1,4 @@
-```bash
+
 # 🛡️ Ransomware Simulation – Educational Project
 
 > **⚠️ WARNING – EDUCATIONAL USE ONLY**  
@@ -27,9 +27,9 @@ The purpose is purely **educational**: to understand ransomware mechanics, file 
 
 Install the dependency:
 
-
+```bash
 pip install cryptography
-```
+
 🚀 Quick Start
 1️⃣ Create a test folder
 Create a folder named test_folder anywhere on your system (e.g., C:\test_folder or D:\my_files\test_folder).
